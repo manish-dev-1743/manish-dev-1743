@@ -84,10 +84,10 @@ I'm **Manish Kumar Dev**, a passionate and results-driven **Software Developer**
 | **Ekantipur Result Checker** | Handled **100K+ concurrent users** during SEE exams with **zero downtime** | Node.js, Express, Redis, Huawei OBS, **Nginx (load balancing)** |
 | **Reporter Analytics System** | Real-time editorial performance dashboard | **MERN Stack**, Socket.IO, D3.js |
 | **Ekantipur Paywall System** | Subscription model with **Esewa, Khalti, PayPal, Stripe** | Laravel, MySQL, **Nginx**, Redis |
-| **Hamrobazaar API Reengineering** | Migrated from .NET to **PHP/Laravel**, cut hosting costs by **50%** | **LEMP Stack** (Linux, **Nginx**, MySQL, PHP) |
-| **Kantipur TV Sports Portals** | Live stats for 5+ sports, **1M+ viewers/match** | React, Node, MongoDB, Leaflet.js |
-| **Ability Classifieds** | Accessibility-focused classifieds (USA/AU) | PHP, MySQL, JavaScript (**LAMP/LEMP**) |
-| **Himshree Churpi Factory** | Dynamic showcase of traditional cheese production | Symfony, SCSS, Firebase |
+| **Hamrobazaar API Reengineering** | Migrated from .NET to **PHP**, cut hosting costs by **50%** | **LEMP Stack** (Linux, **Nginx**, MySQL, PHP) |
+| **Kantipur TV Sports Portals** | Live stats for 5+ sports, **1M+ viewers/match** | React, Node, MongoDB, Leaflet.js, PHP |
+| **Ability Classifieds** | Accessibility-focused classifieds (USA/AU) | PHP/Symfony, MySQL, JavaScript (**LAMP/LEMP**) |
+| **Himshree Churpi Factory** | Dynamic showcase of traditional cheese production | Laravel, SCSS, Firebase |
 | **Spotify Clone (React Native)** | Final-year project with **97% data accuracy** | React Native, Spotify Web API |
 
 > 💡 *Explore individual repositories for live demos, code samples, and system architecture.*
