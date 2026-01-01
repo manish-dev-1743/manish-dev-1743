@@ -113,7 +113,6 @@ I'm open to **full-time roles**, **contract projects**, and **technical collabor
 - Cloud deployment & server configuration (**Nginx**, Linux, OBS)
 
 📧 Email: [devmanish1743@gmail.com](mailto:devmanish1743@gmail.com)  
-📱 Phone: +977 9813347990  
 📍 Location: Kathmandu, Nepal  
 
 ---
