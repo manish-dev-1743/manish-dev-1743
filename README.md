@@ -13,7 +13,7 @@ I'm **Manish Kumar Dev**, a passionate and results-driven **Software Developer**
 - 💳 Built **subscription paywall system** with **Esewa, Khalti, PayPal & Stripe** for `ekantipur.com`
 - 📊 Developed **MERN-based Reporter Analytics System** for real-time editorial insights
 - 📺 Engineered **real-time sports data portals** (Cricket, Football, Basketball, etc.) with **1M+ concurrent viewers**
-- 🛠️ Reduced **hosting costs by 50%** by reengineering `.NET` APIs to **PHP/Laravel** for `hamrobazaar.com`
+- 🛠️ Reduced **hosting costs by 50%** by reengineering `.NET` APIs to **PHP** for `hamrobazaar.com`
 - 🌐 Led frontend development for **government digital platforms** (`Deverp`, `Devsewa`) using **React.js**
 - 📱 Built a **Spotify Clone (React Native)** as a capstone project with **97% data accuracy**
 
