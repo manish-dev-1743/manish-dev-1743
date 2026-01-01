@@ -3,7 +3,7 @@
 Welcome to my developer portfolio repository!  
 I'm **Manish Kumar Dev**, a passionate and results-driven **Software Developer** based in Kathmandu, Nepal, with **3+ years of experience** in full-stack development, API design, and scalable web applications — proficient in both **MERN** and **LAMP/LEMP stacks**.
 
-🔗 [LinkedIn](https://www.linkedin.com/in/manish-kumar-dev-679aaa175/) | ✉️ [devmanish1743@gmail.com](mailto:devmanish1743@gmail.com) | 📞 +977 9813347990
+🔗 [LinkedIn](https://www.linkedin.com/in/manish-kumar-dev-679aaa175/) | ✉️ [devmanish1743@gmail.com](mailto:devmanish1743@gmail.com)
 
 ---
 
